@@ -14,6 +14,6 @@ public class TestThuongTrungThu {
 
     @Test
     public void setThuongTrungThu02(){
-        Assertions.assertEquals("Thuong 12 trieu", thuongTrungThu.tinhThuong(10));
+        Assertions.assertEquals("Thuong 20 trieu", thuongTrungThu.tinhThuong(10));
     }
 }
